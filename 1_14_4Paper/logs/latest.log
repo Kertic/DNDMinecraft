@@ -1,0 +1,297 @@
+[21:40:06] [Server thread/INFO]: Starting minecraft server version 1.14
+[21:40:06] [Server thread/INFO]: Loading properties
+[21:40:07] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-c8d4cef-1fee35b (MC: 1.14) (Implementing API version 1.14-R0.1-SNAPSHOT)
+[21:40:07] [Server thread/INFO]: Debug logging is disabled
+[21:40:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:40:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:40:07] [Server thread/INFO]: Default game type: SURVIVAL
+[21:40:07] [Server thread/INFO]: Generating keypair
+[21:40:07] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25571
+[21:40:07] [Server thread/INFO]: Using default channel type
+[21:40:10] [User Authenticator #1/INFO]: UUID of player Psythis is 511e98a3-3395-4190-b0dc-0ee33135834f
+[21:40:11] [Server thread/INFO]: [MMOLib] Loading MMOLib v1.0.5
+[21:40:11] [Server thread/INFO]: [MMOLib] Detected Bukkit Version: v1_14_R1
+[21:40:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.1;61bc012
+[21:40:12] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1a802e8]
+[21:40:12] [Server thread/INFO]: [MythicMobs] Loading MythicMobs v4.7.2-FREE
+[21:40:12] [Server thread/INFO]: [MMOCore] Loading MMOCore v1.2.2
+[21:40:12] [Server thread/INFO]: [MMOItems] Loading MMOItems v5.2.1
+[21:40:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.1;61bc012
+[21:40:14] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:40:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R1 as the Bukkit adapter
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=0]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=1]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=2]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=3]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=4]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=5]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=6]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=7]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=8]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=9]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=10]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=11]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=12]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=13]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=14]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=15]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=north]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=south]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=west]
+[21:40:15] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=east]
+[21:40:15] [Server thread/WARN]: Unknown item: minecraft:sign
+[21:40:15] [Server thread/WARN]: Unknown item: minecraft:rose_red
+[21:40:15] [Server thread/WARN]: Unknown item: minecraft:cactus_green
+[21:40:15] [Server thread/WARN]: Unknown item: minecraft:dandelion_yellow
+[21:40:15] [Server thread/WARN]: [WorldEdit] ====================================================
+[21:40:15] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[21:40:15] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[21:40:15] [Server thread/WARN]: [WorldEdit]   
+[21:40:15] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[21:40:15] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[21:40:15] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[21:40:15] [Server thread/WARN]: [WorldEdit]   
+[21:40:15] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[21:40:15] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[21:40:15] [Server thread/WARN]: [WorldEdit]   
+[21:40:15] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[21:40:15] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[21:40:15] [Server thread/WARN]: [WorldEdit]   
+[21:40:15] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[21:40:15] [Server thread/WARN]: [WorldEdit] ====================================================
+[21:40:15] [Server thread/INFO]: Preparing level "paper1_14_4"
+[21:40:15] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:40:16] [Server thread/INFO]: Loaded 6 recipes
+[21:40:16] [Server thread/INFO]: -------- World Settings For [paper1_14_4] --------
+[21:40:16] [Server thread/INFO]: View Distance: 10
+[21:40:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:40:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:40:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:40:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:40:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:40:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:40:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:40:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:40:16] [Server thread/INFO]: Mob Spawn Range: 6
+[21:40:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:40:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:40:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:40:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:40:16] [Server thread/INFO]: Max TNT Explosions: 100
+[21:40:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:40:16] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:40:17] [Server thread/INFO]: -------- World Settings For [paper1_14_4_nether] --------
+[21:40:17] [Server thread/INFO]: View Distance: 10
+[21:40:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:40:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:40:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:40:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:40:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:40:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:40:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:40:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:40:17] [Server thread/INFO]: Mob Spawn Range: 6
+[21:40:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:40:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:40:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:40:17] [Server thread/INFO]: Max TNT Explosions: 100
+[21:40:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:40:17] [Server thread/INFO]: -------- World Settings For [paper1_14_4_the_end] --------
+[21:40:17] [Server thread/INFO]: View Distance: 10
+[21:40:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:40:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:40:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:40:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:40:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:40:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:40:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:40:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:40:17] [Server thread/INFO]: Mob Spawn Range: 6
+[21:40:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:40:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[21:40:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:40:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:40:17] [Server thread/INFO]: Max TNT Explosions: 100
+[21:40:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:40:17] [Server thread/INFO]: Preparing start region for dimension 'paper1_14_4'/minecraft:overworld
+[21:40:17] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:40:17] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:40:20] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:40:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:40:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:40:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:40:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:40:20] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:40:21] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:40:21] [Server-Worker-2/INFO]: Preparing spawn area: 23%
+[21:40:22] [Server thread/INFO]: Time elapsed: 5063 ms
+[21:40:22] [Server thread/INFO]: Preparing start region for dimension 'paper1_14_4_nether'/minecraft:the_nether
+[21:40:22] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:40:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:40:23] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:40:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:40:24] [Server-Worker-7/INFO]: Preparing spawn area: 6%
+[21:40:24] [Server-Worker-5/INFO]: Preparing spawn area: 85%
+[21:40:24] [Server thread/INFO]: Time elapsed: 2743 ms
+[21:40:24] [Server thread/INFO]: Preparing start region for dimension 'paper1_14_4_the_end'/minecraft:the_end
+[21:40:24] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:40:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:40:25] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:40:26] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:40:26] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[21:40:27] [Server thread/INFO]: Time elapsed: 2220 ms
+[21:40:27] [Server thread/INFO]: [MMOLib] Enabling MMOLib v1.0.5
+[21:40:27] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v4.7.2-FREE
+[21:40:27] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Bukkit v1_14_R1 (Minecraft 1.14)...[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] MythicMobs MMOItems Support has been enabled![0m
+[21:40:27] [Server thread/INFO]: [LumineUtils] (io.lumine.utils.) is bound to plugin MythicMobs - io.lumine.xikage.mythicmobs.MythicMobs
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 6 skills.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics[0m
+[21:40:27] [Server thread/INFO]: [MythicMobs] [32m? MythicMobs v4.7.2 (build FREE) has been successfully loaded![0m[0m
+[21:40:27] [Server thread/INFO]: [MMOCore] Enabling MMOCore v1.2.2
+[21:40:27] [Server thread/INFO]: [MMOCore] Hooked onto MythicMobs
+[21:40:28] [Server thread/WARN]: [MMOCore] [CustomMine] Could not load 'region{name="region1,region2,__global__"}': Could not find corresponding Condition in database
+[21:40:28] [Server thread/WARN]: [MMOCore] [FishDropTables] Could not load 'region{name=swamp}': Could not find corresponding Condition in database
+[21:40:28] [Server thread/WARN]: [MMOCore] [Quests:adv-begins] Could not load 'goto{world="world";x=120;y=46;z=652;range=10}': Could not find world world
+[21:40:28] [Server thread/WARN]: [MMOCore] [Quests:adv-begins] Could not load 'talkto{npc=0}': Could not find corresponding Objective in database
+[21:40:28] [Server thread/WARN]: [MMOCore] [Quests:fetch-mango] Could not load 'getitem{type=APPLE;npc=1;amount=2}': Could not find corresponding Objective in database
+[21:40:28] [Server thread/WARN]: [MMOCore] [Quests:tutorial] Could not load 'goto{world="world";x=56;y=68;z=115;range=5}': Could not find world world
+[21:40:28] [Server thread/WARN]: [MMOCore] [Quests:tutorial] Could not load 'getitem{type="OAK_LOG";amount=3;npc=0}': Could not find corresponding Objective in database
+[21:40:28] [Server thread/WARN]: [MMOCore] [Quests:tutorial] Could not load 'talkto{npc=0}': Could not find corresponding Objective in database
+[21:40:28] [Server thread/WARN]: [MMOCore] Couldn't read the loot chest config 'world 59 71 131':Could not find world 'world'
+[21:40:28] [Server thread/WARN]: [MMOCore] Could not load waypoint spawn: Could not find world null
+[21:40:28] [Server thread/WARN]: [MMOCore] Could not load waypoint spawn1: Could not find world null
+[21:40:28] [Server thread/WARN]: [MMOCore] Could not load waypoint spawn2: Could not find world null
+[21:40:28] [Server thread/INFO]: [MMOItems] Enabling MMOItems v5.2.1
+[21:40:28] [Server thread/INFO]: [MMOItems] WorldGenTemplate: basic-template
+[21:40:28] [Server thread/INFO]: [MMOItems] WorldGenTemplate: slime-chunks-only
+[21:40:28] [Server thread/INFO]: [MMOItems] Loading crafting stations, please wait..
+[21:40:28] [Server thread/INFO]: [MMOItems] Hooked onto MMOCore
+[21:40:28] [Server thread/INFO]: [MMOItems] Loading recipes, please wait...
+[21:40:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:40:28] [Server thread/INFO]: Done (13.123s)! For help, type "help"
+[21:40:28] [Craft Scheduler Thread - 1/INFO]: [MMOItems] Hooked onto MythicMobs (async)
+[21:40:28] [Server thread/INFO]: Psythis[/127.0.0.1:56859] logged in with entity id 138 at ([paper1_14_4]178.31512987161278, 62.9375, -451.3307449851355)
+[21:45:09] [Server thread/INFO]: Psythis issued server command: /time set day
+[21:45:09] [Server thread/INFO]: [Psythis: Set the time to 1000]
+[21:45:13] [Server thread/INFO]: Psythis issued server command: /mm reload
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 6 skills.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[21:45:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[21:45:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
+[21:50:09] [Server thread/INFO]: Psythis issued server command: /mm reload
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 6 skills.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[21:50:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[21:51:13] [Server thread/INFO]: Psythis issued server command: /mm reload
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 6 skills.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[21:51:13] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[21:53:09] [Server thread/INFO]: Psythis issued server command: /mm reload
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 6 skills.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[21:53:09] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[21:55:16] [Server thread/INFO]: Psythis issued server command: /mm reload
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 6 skills.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[21:55:16] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[21:55:27] [Server thread/INFO]: Psythis issued server command: /time set day
+[21:55:27] [Server thread/INFO]: [Psythis: Set the time to 1000]
+[21:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[21:56:54] [Server thread/INFO]: Psythis lost connection: Disconnected
+[21:56:54] [Server thread/INFO]: Psythis left the game
+[21:56:59] [Server thread/INFO]: Stopping the server
+[21:56:59] [Server thread/INFO]: Stopping server
+[21:56:59] [Server thread/INFO]: [MMOItems] Disabling MMOItems v5.2.1
+[21:56:59] [Server thread/INFO]: [MMOCore] Disabling MMOCore v1.2.2
+[21:56:59] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v4.7.2-FREE
+[21:56:59] [Server thread/INFO]: [MythicMobs] Disabling Mythic Mobs...[0m
+[21:56:59] [Server thread/INFO]: [MythicMobs] All active settings have been saved.[0m
+[21:56:59] [Server thread/INFO]: [MythicMobs] v4.7.2-FREE has been Disabled![0m
+[21:56:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.1;61bc012
+[21:56:59] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:56:59] [Server thread/INFO]: [MMOLib] Disabling MMOLib v1.0.5
+[21:56:59] [Server thread/INFO]: Saving players
+[21:56:59] [Server thread/INFO]: Saving worlds
+[21:56:59] [Server thread/INFO]: Saving chunks for level 'paper1_14_4'/minecraft:overworld
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (paper1_14_4): All chunks are saved
+[21:57:00] [Server thread/INFO]: Saving chunks for level 'paper1_14_4_nether'/minecraft:the_nether
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:57:00] [Server thread/INFO]: Saving chunks for level 'paper1_14_4_the_end'/minecraft:the_end
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (paper1_14_4): All chunks are saved
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (paper1_14_4): All chunks are saved
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:57:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
